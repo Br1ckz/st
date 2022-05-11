@@ -5,3 +5,4 @@
 - vertcenter
 - alpha
 - bold is not bright
+- font2
