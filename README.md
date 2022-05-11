@@ -4,3 +4,4 @@
 - scrollback
 - vertcenter
 - alpha
+- bold is not bright
