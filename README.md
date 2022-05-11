@@ -3,3 +3,4 @@
 ## Patches 
 - scrollback
 - vertcenter
+- alpha
